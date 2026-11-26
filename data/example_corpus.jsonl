@@ -1,0 +1,16 @@
+{"id": "d01", "title": "Redefinir senha", "text": "Para redefinir a senha da conta corporativa, abra o portal de acesso e escolha a opção esqueci a senha. Um código chega ao telefone cadastrado."}
+{"id": "d02", "title": "Acesso à VPN", "text": "A conexão VPN exige autenticação em dois fatores. Instale o cliente oficial e entre com o usuário da rede."}
+{"id": "d03", "title": "Solicitação de notebook", "text": "Pedidos de notebook novo são feitos pelo catálogo de equipamentos. A entrega leva até dez dias úteis."}
+{"id": "d04", "title": "Política de privacidade e dados pessoais", "text": "Dados pessoais de clientes só podem ser acessados por quem precisa deles no trabalho. Todo acesso fica registrado."}
+{"id": "d05", "title": "Reembolso de despesas", "text": "Despesas de viagem são reembolsadas em até quinze dias após o envio das notas fiscais pelo sistema financeiro."}
+{"id": "d06", "title": "Férias e licenças", "text": "As férias devem ser solicitadas com trinta dias de antecedência. A aprovação é feita pelo gestor direto."}
+{"id": "d07", "title": "Incidentes de segurança", "text": "Ao notar e-mail suspeito ou perda de equipamento, avise imediatamente a equipe de segurança pelo canal de incidentes."}
+{"id": "d08", "title": "Implantação em produção", "text": "Toda implantação em produção passa por revisão de código, testes automatizados e janela de mudança aprovada."}
+{"id": "d09", "title": "Monitoramento de aplicações", "text": "Os painéis de monitoramento mostram latência, erros e consumo de recursos. Alertas são enviados ao plantão."}
+{"id": "d10", "title": "Gestão de acessos", "text": "Permissões são concedidas por perfil. O gestor aprova cada solicitação e as revisões acontecem a cada trimestre."}
+{"id": "d11", "title": "Backup e recuperação", "text": "Os backups dos bancos de dados rodam toda noite. A recuperação é testada duas vezes por ano."}
+{"id": "d12", "title": "Uso de inteligência artificial", "text": "Ferramentas de IA generativa não podem receber dados confidenciais de clientes. Use apenas as ferramentas aprovadas pela empresa."}
+{"id": "d13", "title": "Trabalho remoto", "text": "O trabalho remoto é permitido três dias por semana. Combine os dias com a equipe e registre no calendário."}
+{"id": "d14", "title": "Treinamentos e certificações", "text": "A empresa paga certificações ligadas ao projeto. Solicite pelo portal de aprendizagem com a aprovação do gestor."}
+{"id": "d15", "title": "Impressoras e periféricos", "text": "Para configurar impressoras, instale o driver pelo portal de software. Teclados e mouses são trocados na recepção de TI."}
+{"id": "d16", "title": "Custos de nuvem", "text": "Cada projeto recebe um orçamento mensal de nuvem. Alertas avisam quando o consumo chega a oitenta por cento."}

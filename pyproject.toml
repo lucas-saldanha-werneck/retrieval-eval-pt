@@ -1,0 +1,23 @@
+[project]
+name = "retrieval-eval-pt"
+version = "0.1.0"
+description = "Tiny offline retrieval evaluation for Portuguese RAG: BM25, Recall@k, MRR, context cost"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+retrieval-eval = "retrieval_eval.cli:main"
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
