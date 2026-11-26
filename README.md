@@ -44,7 +44,7 @@ O preço por milhão de tokens é um valor de exemplo (1,0 USD). Troque pelo da 
 
 - 14 testes automatizados (`pytest`), todos offline: normalização de acentos, stemmer, BM25, Recall@k, MRR, estimativa de custo, consistência dos dados de exemplo, a comparação raw contra pt e a saída da linha de comando.
 - O mesmo conjunto roda no GitHub Actions (`.github/workflows/test.yml`), junto com a execução da ferramenta nos dados de exemplo.
-- Os números da tabela acima saem desse comando e são conferidos por testes.
+- Os números da tabela acima saem desse comando. Os testes conferem a ordem (pt melhor que raw) e a única pergunta sem resposta do raw, não os valores exatos.
 
 ## What was not tested
 
